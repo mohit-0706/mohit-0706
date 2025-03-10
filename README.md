@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohit-0706
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning hrml,css,javascript,nodejs,react etc....
+- 🌱 I’m currently learning html,css,javascript,nodejs,react etc....
 - 💞️ I’m looking to collaborate with developers
 - 📫 How to reach me connect me on my instagram handle @mohitsain0706
 - 😄 Pronouns: He/Him
