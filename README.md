@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with developers
 - 📫 How to reach me connect me on my instagram handle @mohit.sain.ig
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am dog lover not so much
+- ⚡ Fun fact: a figurtive personality 
 - I am an expert in Python programming.
 
 <!---
