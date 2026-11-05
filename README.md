@@ -1,3 +1,5 @@
+I am passionate about building softwares and engineering products
+
 - 👋 Hi, I’m @mohit-0706
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css,javascript,nodejs,react etc....
