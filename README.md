@@ -4,7 +4,7 @@ I am passionate about building softwares and engineering products
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css,javascript,nodejs,react etc....
 - 💞️ I’m looking to collaborate with developers
-- 📫 How to reach me connect me on my instagram handle @mohit.sain.ig
+- 📫 How to reach me connect me on my linkedin www.linkedin.com/in/mohit-sain-769162236
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: a figurtive personality 
 - I am an expert in Python programming.
